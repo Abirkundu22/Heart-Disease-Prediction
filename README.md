@@ -5,4 +5,4 @@ Several supervised classification techniques—including Logistic Regression, K-
 
 Visualization tools like Matplotlib and Seaborn are used to explore feature patterns and gain insights into model predictions. Overall, the project showcases an end-to-end machine learning pipeline and demonstrates the practical use of ML techniques in a healthcare-related prediction problem.
 
-Dataset:
+Dataset:https://mega.nz/fm/rY0iWLxS
